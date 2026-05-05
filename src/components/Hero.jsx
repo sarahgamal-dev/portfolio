@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import { useLanguage } from '../context/LanguageContext';
 import { content } from '../data/content';
-import heroImg from '../assets/images/personal.jpg';
+
 
 const Hero = () => {
   const { language } = useLanguage();
@@ -70,7 +70,7 @@ const Hero = () => {
           <p className="hero-desc">{t.statement}</p>
           <div className="hero-buttons">
             <a href="#projects" className="btn btn-primary">{t.viewProjects}</a>
-            <a href="./src/assets/cv/Sara Gamal - resume.pdf" download className="btn btn-text-icon">
+            <a href="/Sara Gamal - resume.pdf" download className="btn btn-text-icon">
               <span>{t.downloadCV}</span>
               <span className="icon">↓</span>
             </a>
@@ -78,7 +78,7 @@ const Hero = () => {
         </div>
         <div className="hero-image-container">
           <div className="hero-image-wrapper">
-            <img src={heroImg} alt={t.name} className="hero-profile-img" />
+            <img src="/images/personal.jpg" alt={t.name} className="hero-profile-img" />
           </div>
         </div>
       </div>

@@ -44,28 +44,28 @@ export const content = {
       university: "Kafrelsheikh University",
       years: "2020 — 2024",
       gradProject: "Virtual Reality — Excellent Grade",
-      logo: "./src/assets/images/kfu-logo.png",
+      logo: "/images/kfu-logo.png",
       certs: [
         {
           title: "Full-Stack Web Development",
           org: "Digilians Professional Track • 2026 — Present",
           description: "Intensive training on building end-to-end applications using modern tech stacks and industry best practices.",
           pdf: "",
-          icon: "../../src/assets/images/images.png"
+          icon: "/images/images.png"
         },
         {
           title: "Front-End Developer Trainee",
           org: "Route Academy • 2025",
           description: "Focusing on advanced React.js, state management, and building high-performance user interfaces.",
-          pdf: "../../src/assets/cv/Route.pdf",
-          icon: "../../src/assets/cv/route.png"
+          pdf: "/Route.pdf",
+          icon: "/images/route.png"
         },
         {
           title: "UI/UX & Front-End Trainee",
           org: "ITI (Information Technology Institute) • 2023",
           description: "Explored user-centered design principles along with core frontend technologies (HTML, CSS, JS).",
-          pdf: "../../src/assets/cv/iti.pdf",
-          icon: "../../src/assets/cv/iti.png"
+          pdf: "/iti.pdf",
+          icon: "/images/iti.png"
         }
       ]
     },
@@ -152,7 +152,7 @@ export const content = {
       list: [
         {
           title: "Daniels – Professional Portfolio",
-          image: "./src/assets/images/daniels-mockup.png",
+          image: "/images/daniels-mockup.png",
           source: "Portfolio Case Study",
           role: "Frontend Developer",
           challenge: "Creating a clean, minimalist portfolio that highlights personal brand and projects with a focus on typography and high-quality imagery.",
@@ -165,7 +165,7 @@ export const content = {
         },
         {
           title: "FreshCart React – Advanced E-commerce",
-          image: "./src/assets/images/ecommerce-react-mockup.png",
+          image: "/images/ecommerce-react-mockup.png",
           source: "React E-commerce Project",
           role: "Frontend Developer",
           challenge: "Building a complex e-commerce interface with state-of-the-art filtering, search, and cart synchronization features.",
@@ -190,7 +190,7 @@ export const content = {
           company: "Digilians",
           role: "Full Stack Developer",
           duration: "Feb – May 2026",
-          icon: "../../src/assets/images/images.png",
+          icon: "/images/images.png",
           challenge: "Businesses struggle to integrate disjointed front-end apps with secure back-end systems, leading to performance bottlenecks.",
           action: "Engineered performant end-to-end applications using React and Node.js with scalable state management and secure API routing.",
           result: "Improved system reliability by 25% and reduced cross-module communication latency through optimized clean architecture."
@@ -199,7 +199,7 @@ export const content = {
           company: "Route",
           role: "Front-End Developer Trainee",
           duration: "Mar – Oct 2025",
-          icon: "../../src/assets/cv/route.png",
+          icon: "/images/route.png",
           challenge: "Dynamic web apps often suffer from slow load times and inconsistent UI, negatively impacting user retention.",
           action: "Delivered high-performance apps using React and Next.js, optimizing asset loading and implementing responsive accessibility standards.",
           result: "Boosted frontend performance scores and delivered pixel-perfect interfaces that improved user engagement."
@@ -208,7 +208,7 @@ export const content = {
           company: "ITI (Information Technology Institute)",
           role: "UI/UX & Front-End Trainee",
           duration: "June – Aug 2023",
-          icon: "../../src/assets/cv/iti.png",
+          icon: "/images/iti.png",
           challenge: "Non-intuitive user interfaces lead to high churn rates and a disconnect between business goals and user needs.",
           action: "Combined UI/UX design principles with modern web tech (HTML5/CSS3/JS) to build interactive, user-centered prototypes.",
           result: "Successfully designed and deployed 3 responsive prototypes, bridging the gap between design vision and technical implementation."
@@ -356,28 +356,28 @@ export const content = {
       university: "جامعة كفر الشيخ",
       years: "2020 — 2024",
       gradProject: "الواقع الافتراضي — تقدير ممتاز",
-      logo: "./src/assets/images/kfu-logo.png",
+      logo: "/images/kfu-logo.png",
       certs: [
         {
           title: "تطوير الويب الشامل",
           org: "مسار Digilians المهني • 2026 — الحاضر",
           description: "تدريب مكثف على بناء تطبيقات متكاملة من البداية إلى النهاية باستخدام أحدث التقنيات وأفضل الممارسات.",
           pdf: "",
-          icon: "../../src/assets/images/images.png"
+          icon: "/images/images.png"
         },
         {
           title: "متدرب مطور واجهات أمامية",
           org: "أكاديمية Route • 2025",
           description: "التركيز على تقنيات React.js المتقدمة، إدارة الحالة، وبناء واجهات مستخدم عالية الأداء.",
-          pdf: "../../src/assets/cv/Route.pdf",
-          icon: "../../src/assets/cv/route.png"
+          pdf: "/Route.pdf",
+          icon: "/images/route.png"
         },
         {
           title: "متدرب UI/UX والواجهات الأمامية",
           org: "معهد تكنولوجيا المعلومات (ITI) • 2023",
           description: "استكشاف مبادئ التصميم المتمحورة حول المستخدم بالإضافة إلى تقنيات الواجهة الأمامية الأساسية.",
-          pdf: "../../src/assets/cv/iti.pdf",
-          icon: "../../src/assets/cv/iti.png"
+          pdf: "/iti.pdf",
+          icon: "/images/iti.png"
         }
       ]
     },
@@ -464,7 +464,7 @@ export const content = {
       list: [
         {
           title: "FreshCart – منصة تجارة إلكترونية",
-          image: "./src/assets/images/FreshCart-mockup.png",
+          image: "/images/ecommerce-react-mockup.png",
           source: "مشروع تجارة إلكترونية",
           role: "مطور واجهات أمامية",
           challenge: "تطوير منصة تجارة إلكترونية حديثة ومتجاوبة تقدم تجربة تسوق سلسة لمنتجات الأزياء والبقالة.",
@@ -477,7 +477,7 @@ export const content = {
         },
         {
           title: "دانيالز – ملف شخصي احترافي",
-          image: "./src/assets/images/daniels-mockup.png",
+          image: "/images/daniels-mockup.png",
           source: "مشروع ملف شخصي",
           role: "مطور واجهات أمامية",
           challenge: "إنشاء ملف شخصي بسيط وجذاب يبرز العلامة التجارية الشخصية والمشاريع مع التركيز على جودة التصميم والوضوح.",
@@ -490,7 +490,7 @@ export const content = {
         },
         {
           title: "Mealify – موقع مطعم ومأكولات",
-          image: "./src/assets/images/mealify-mockup.png",
+          image: "/images/mealify-mockup.png",
           source: "صفحة هبوط لمطعم",
           role: "مطور واجهات أمامية",
           challenge: "تصميم واجهة مستخدم جذابة ومشهية لمطعم تعرض قائمة الطعام بفاعلية وتسهل عملية حجز الطاولات.",
@@ -503,7 +503,7 @@ export const content = {
         },
         {
           title: "FreshCart React – متجر إلكتروني متقدم",
-          image: "./src/assets/images/ecommerce-react-mockup.png",
+          image: "/images/ecommerce-react-mockup.png",
           source: "مشروع متجر React",
           role: "مطور واجهات أمامية",
           challenge: "بناء واجهة تجارة إلكترونية معقدة مع ميزات تصفية وبحث ومزامنة عربة التسوق المتقدمة.",
@@ -528,7 +528,7 @@ export const content = {
           company: "Digilians",
           role: "مطور ويب متكامل",
           duration: "فبراير – مايو 2026",
-          icon: "../../src/assets/images/images.png",
+          icon: "/images/images.png",
           challenge: "تواجه الشركات صعوبة في دمج تطبيقات الواجهة الأمامية المنفصلة مع أنظمة خلفية آمنة، مما يؤدي إلى بطء الأداء.",
           action: "قمت بهندسة تطبيقات متكاملة باستخدام React و Node.js مع إدارة حالة قابلة للتوسع ومسارات API آمنة.",
           result: "حسنت موثوقية النظام بنسبة 25% وقللت تأخير التواصل بين الوحدات من خلال هندسة نظيفة محسنة."
@@ -537,7 +537,7 @@ export const content = {
           company: "Route",
           role: "متدرب مطور واجهات أمامية",
           duration: "مارس – أكتوبر 2025",
-          icon: "../../src/assets/cv/route.png",
+          icon: "/images/route.png",
           challenge: "غالباً ما تعاني تطبيقات الويب الديناميكية من بطء أوقات التحميل وواجهة مستخدم غير متسقة، مما يؤثر سلباً على احتفاظ المستخدم.",
           action: "قدمت تطبيقات عالية الأداء باستخدام React و Next.js، مع تحسين تحميل الأصول وتطبيق معايير الوصول المتجاوبة.",
           result: "رفعت درجات أداء الواجهة الأمامية وقدمت واجهات مثالية حسنت تفاعل المستخدم."
@@ -546,7 +546,7 @@ export const content = {
           company: "ITI (معهد تكنولوجيا المعلومات)",
           role: "متدرب UI/UX والواجهات الأمامية",
           duration: "يونيو – أغسطس 2023",
-          icon: "../../src/assets/cv/iti.png",
+          icon: "/images/iti.png",
           challenge: "تؤدي واجهات المستخدم غير البديهية إلى ارتفاع معدلات التخلي وانفصال بين أهداف العمل واحتياجات المستخدمين.",
           action: "جمعت بين مبادئ تصميم UI/UX وتقنيات الويب الحديثة لبناء نماذج أولية تفاعلية متمحورة حول المستخدم.",
           result: "نجحت في تصميم ونشر 3 نماذج أولية متجاوبة، مما سد الفجوة بين رؤية التصميم والتنفيذ التقني."
