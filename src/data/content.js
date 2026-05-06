@@ -160,7 +160,7 @@ export const content = {
           result: "Delivered a sophisticated, fast-loading portfolio that achieved a 40% increase in user session duration and positive feedback on design clarity.",
           features: ["Responsive Grid System", "Minimalist UI Design", "Professional Branding", "Mobile-first approach"],
           tech: ["HTML5", "CSS3", "Bootstrap", "JavaScript"],
-          demo: "http://portfolio-daniels-r54e-is72vrn6b-sarahgamal-devs-projects.vercel.app/",
+          demo: "https://portfolio-daniels-beryl.vercel.app/",
           github: "https://github.com"
         },
         {
