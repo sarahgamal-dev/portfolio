@@ -160,7 +160,7 @@ export const content = {
           result: "Delivered a sophisticated, fast-loading portfolio that achieved a 40% increase in user session duration and positive feedback on design clarity.",
           features: ["Responsive Grid System", "Minimalist UI Design", "Professional Branding", "Mobile-first approach"],
           tech: ["HTML5", "CSS3", "Bootstrap", "JavaScript"],
-          demo: "https://portfolio-daniels-beryl.vercel.app/",
+          demo: "https://sarahgamal-dev.github.io/Portfolio-Daniels-/",
           github: "https://github.com"
         },
         {
@@ -462,19 +462,19 @@ export const content = {
         clickDetails: "اضغط لعرض التفاصيل"
       },
       list: [
-        {
-          title: "FreshCart – منصة تجارة إلكترونية",
-          image: "/images/ecommerce-react-mockup.png",
-          source: "مشروع تجارة إلكترونية",
-          role: "مطور واجهات أمامية",
-          challenge: "تطوير منصة تجارة إلكترونية حديثة ومتجاوبة تقدم تجربة تسوق سلسة لمنتجات الأزياء والبقالة.",
-          action: "قمت ببناء واجهة متجر سريعة الاستجابة باستخدام React.js، ونفذت عرض المنتجات المتغيرة، وإدارة حالة عربة التسوق، وتحسين التصميم للهواتف المحمولة.",
-          result: "قدمت واجهة متجر تفاعلية وعالية الأداء بالكامل مع أوقات تحميل سريعة وتجربة تسوق بديهية لكافة المستخدمين.",
-          features: ["تصفية ذكية للمنتجات", "إدارة عربة التسوق", "تصميم متجاوب بالكامل", "واجهة مستخدم حديثة"],
-          tech: ["React.js", "Tailwind CSS", "JavaScript"],
-          demo: "https://fresh-cart-ecommarce.vercel.app/login",
-          github: "https://github.com"
-        },
+        // {
+        //   title: "FreshCart – منصة تجارة إلكترونية",
+        //   image: "/images/ecommerce-react-mockup.png",
+        //   source: "مشروع تجارة إلكترونية",
+        //   role: "مطور واجهات أمامية",
+        //   challenge: "تطوير منصة تجارة إلكترونية حديثة ومتجاوبة تقدم تجربة تسوق سلسة لمنتجات الأزياء والبقالة.",
+        //   action: "قمت ببناء واجهة متجر سريعة الاستجابة باستخدام React.js، ونفذت عرض المنتجات المتغيرة، وإدارة حالة عربة التسوق، وتحسين التصميم للهواتف المحمولة.",
+        //   result: "قدمت واجهة متجر تفاعلية وعالية الأداء بالكامل مع أوقات تحميل سريعة وتجربة تسوق بديهية لكافة المستخدمين.",
+        //   features: ["تصفية ذكية للمنتجات", "إدارة عربة التسوق", "تصميم متجاوب بالكامل", "واجهة مستخدم حديثة"],
+        //   tech: ["React.js", "Tailwind CSS", "JavaScript"],
+        //   demo: "https://fresh-cart-ecommarce.vercel.app/login",
+        //   github: "https://github.com"
+        // },
         {
           title: "دانيالز – ملف شخصي احترافي",
           image: "/images/daniels-mockup.png",
@@ -485,22 +485,22 @@ export const content = {
           result: "قدمت موقعاً أنيقاً وسريع التحميل، مما أدى إلى تحسين تجربة المستخدم وزيادة التفاعل مع المحتوى المعروض.",
           features: ["نظام شبكي متجاوب", "تصميم واجهة بسيط", "هوية بصرية احترافية", "تركيز على تجربة المستخدم"],
           tech: ["HTML5", "CSS3", "Bootstrap", "JavaScript"],
-          demo: "http://portfolio-daniels-r54e-is72vrn6b-sarahgamal-devs-projects.vercel.app/",
+          demo: "https://sarahgamal-dev.github.io/Portfolio-Daniels-/",
           github: "https://github.com"
         },
-        {
-          title: "Mealify – موقع مطعم ومأكولات",
-          image: "/images/mealify-mockup.png",
-          source: "صفحة هبوط لمطعم",
-          role: "مطور واجهات أمامية",
-          challenge: "تصميم واجهة مستخدم جذابة ومشهية لمطعم تعرض قائمة الطعام بفاعلية وتسهل عملية حجز الطاولات.",
-          action: "قمت بتصميم وتطوير صفحة هبوط متجاوبة باستخدام HTML5 و CSS3 وتقنيات الحركة لإنشاء قسم 'استمتع بطعامك' ومعرض الوجبات.",
-          result: "حقق العرض تقديماً بصرياً لافتاً أدى إلى زيادة تفاعل المستخدمين وتبسيط عملية الحجز.",
-          features: ["معرض طعام تفاعلي", "نظام حجز طاولات", "نافبار متجاوب", "تأثيرات حركية"],
-          tech: ["HTML5", "CSS3", "JavaScript", "تأثيرات CSS"],
-          demo: "https://food-project-fyn2-p9s5ua22p-sarahgamal-devs-projects.vercel.app/",
-          github: "https://github.com"
-        },
+        // {
+        //   title: "Mealify – موقع مطعم ومأكولات",
+        //   image: "/images/mealify-mockup.png",
+        //   source: "صفحة هبوط لمطعم",
+        //   role: "مطور واجهات أمامية",
+        //   challenge: "تصميم واجهة مستخدم جذابة ومشهية لمطعم تعرض قائمة الطعام بفاعلية وتسهل عملية حجز الطاولات.",
+        //   action: "قمت بتصميم وتطوير صفحة هبوط متجاوبة باستخدام HTML5 و CSS3 وتقنيات الحركة لإنشاء قسم 'استمتع بطعامك' ومعرض الوجبات.",
+        //   result: "حقق العرض تقديماً بصرياً لافتاً أدى إلى زيادة تفاعل المستخدمين وتبسيط عملية الحجز.",
+        //   features: ["معرض طعام تفاعلي", "نظام حجز طاولات", "نافبار متجاوب", "تأثيرات حركية"],
+        //   tech: ["HTML5", "CSS3", "JavaScript", "تأثيرات CSS"],
+        //   demo: "https://food-project-fyn2-p9s5ua22p-sarahgamal-devs-projects.vercel.app/",
+        //   github: "https://github.com"
+        // },
         {
           title: "FreshCart React – متجر إلكتروني متقدم",
           image: "/images/ecommerce-react-mockup.png",
